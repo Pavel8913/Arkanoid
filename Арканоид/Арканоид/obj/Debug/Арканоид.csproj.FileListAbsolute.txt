@@ -1,0 +1,12 @@
+C:\Users\NADIP\Documents\3 курс\Енин Павел\Арканоид\Арканоид\bin\Debug\Арканоид.exe.config
+C:\Users\NADIP\Documents\3 курс\Енин Павел\Арканоид\Арканоид\bin\Debug\Арканоид.exe
+C:\Users\NADIP\Documents\3 курс\Енин Павел\Арканоид\Арканоид\bin\Debug\Арканоид.pdb
+C:\Users\NADIP\Documents\3 курс\Енин Павел\Арканоид\Арканоид\obj\Debug\Арканоид.csproj.AssemblyReference.cache
+C:\Users\NADIP\Documents\3 курс\Енин Павел\Арканоид\Арканоид\obj\Debug\Арканоид.csproj.SuggestedBindingRedirects.cache
+C:\Users\NADIP\Documents\3 курс\Енин Павел\Арканоид\Арканоид\obj\Debug\Арканоид.Form1.resources
+C:\Users\NADIP\Documents\3 курс\Енин Павел\Арканоид\Арканоид\obj\Debug\Арканоид.Properties.Resources.resources
+C:\Users\NADIP\Documents\3 курс\Енин Павел\Арканоид\Арканоид\obj\Debug\Арканоид.csproj.GenerateResource.cache
+C:\Users\NADIP\Documents\3 курс\Енин Павел\Арканоид\Арканоид\obj\Debug\Арканоид.csproj.CoreCompileInputs.cache
+C:\Users\NADIP\Documents\3 курс\Енин Павел\Арканоид\Арканоид\obj\Debug\Арканоид.exe
+C:\Users\NADIP\Documents\3 курс\Енин Павел\Арканоид\Арканоид\obj\Debug\Арканоид.pdb
+C:\Users\NADIP\Documents\3 курс\Енин Павел\Арканоид\Арканоид\obj\Debug\Арканоид.Form2.resources
